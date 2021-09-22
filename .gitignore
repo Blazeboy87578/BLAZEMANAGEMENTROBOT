@@ -1,16 +1,16 @@
-# Config files, logs and stuff
-PglRobot/modules/helper_funcs/temp.txt
-PglRobot/elevated_users.json
-PglRobot/config.py
-PglRobot/config.ini
+
+bLaZebot/modules/helper_funcs/temp.txt
+bLaZebot/elevated_users.json
+bLaZebot/config.py
+bLaZebot/config.ini
 log.txt
 kangsticker.png
 updates.txt
 
 # Session files
-PglRobot/*.session
-PglRobot/*.session-journal
-PglRobot.session-journal
+bLaZebot/*.session
+bLaZebot/*.session-journal
+bLaZebot.session-journal
 *.session
 
 # Byte-compiled / optimized / DLL files
@@ -42,13 +42,9 @@ share/python-wheels/
 *.egg
 MANIFEST
 
-# PyInstaller
-#  Usually these files are written by a python script from a template
-#  before PyInstaller builds the exe, so as to inject date/other infos into it.
 *.manifest
 *.spec
 
-# Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
 
