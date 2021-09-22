@@ -1,10 +1,10 @@
 from telethon import events
-from PglRobot import telethn
+from bLaZebot import telethn
 
 """Triggers start command in pm and in groupchats"""
 
 
-def PglRobot(**args):
+def bLaZebot(**args):
     """New message."""
     pattern = args.get("pattern", None)
     r_pattern = r"^[/!]"
