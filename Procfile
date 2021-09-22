@@ -1,3 +1,3 @@
-worker: python3 -m PglRobot
-web: python3 -m PglRobot
+worker: python3 -m bLaZebot
+web: python3 -m bLaZebot
 ps:scale worker=1
